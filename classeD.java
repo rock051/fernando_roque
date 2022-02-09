@@ -10,7 +10,9 @@ public class classeD{
     public int getInt(){
         return d1;
     }
-    
+    public float getFloat(){
+        return d2;
+    }
     
     public String toString(){
         return "numero inteiro" + d1;
